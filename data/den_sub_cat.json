@@ -1,0 +1,66 @@
+[
+    {
+        "den_sub_cat_id" : 1,
+        "den_sub_cat_name" : "Anaesthisiology"
+    },
+    {
+        "den_sub_cat_id": 2,
+        "den_sub_cat_name" : "Aviation Medicine"
+    },
+    {
+        "den_sub_cat_id": 3,
+        "den_sub_cat_name" : "Cardiology"
+    },
+    {
+        "den_sub_cat_id": 4,
+        "den_sub_cat_name" : "Cardiothoracic Surgery"
+    },
+    {
+        "den_sub_cat_id": 5,
+        "den_sub_cat_name" : "Dermatalogy"
+    },
+    {
+        "den_sub_cat_id": 6,
+        "den_sub_cat_name" : "Diagnostic Radiology"
+    },
+    {
+        "den_sub_cat_id": 7,
+        "den_sub_cat_name" : "Emergency Medicine"
+    },
+    {
+        "den_sub_cat_id": 8,
+        "den_sub_cat_name" : "Emergency Medicine"
+    },
+    {
+        "den_sub_cat_id": 9,
+        "den_sub_cat_name" : "Endocrinology"
+    },
+    {
+        "den_sub_cat_id": 10,
+        "den_sub_cat_name" : "Gastroenterology"
+    },
+    {
+        "den_sub_cat_id": 11,
+        "den_sub_cat_name" : "General Surgery"
+    },
+    {
+        "den_sub_cat_id": 12,
+        "den_sub_cat_name" : "Geriatric Medicine"
+    },
+    {
+        "den_sub_cat_id": 13,
+        "den_sub_cat_name" : "Haematology"
+    },
+    {
+        "den_sub_cat_id": 14,
+        "den_sub_cat_name" : "Hand Surgery"
+    },
+    {
+        "den_sub_cat_id": 15,
+        "den_sub_cat_name" : "Infectious Diseases"
+    },
+    {
+        "den_sub_cat_id": 16,
+        "den_sub_cat_name" : "Infectious Diseases"
+    }
+]

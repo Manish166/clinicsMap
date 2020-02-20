@@ -1,0 +1,14 @@
+[
+    {
+        "cat_id" : "allClinics",
+        "cat_name" : "All Clinics"
+    },
+    {
+        "cat_id": "generalMedical",
+        "cat_name" : "General Medical"
+    },
+    {
+        "cat_id": "generalDental",
+        "cat_name" : "General Dental"
+    }
+]

@@ -1,0 +1,1634 @@
+[
+    {
+        "name": "PUBLIC MEDICAL CLINIC & SURGERY",
+        "formatted_address": "664 Yishun Ave 4, #01-275 Block 664, Singapore 760664",
+        "lat": 1.420297,
+        "lng": 103.841045,
+        "place_id": "ChIJRyQfzBQU2jER3yjVEai5o5c",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PULAU BUKOM CLINIC",
+        "formatted_address": "Bukom Island, Singapore",
+        "lat": 1.234572,
+        "lng": 103.7622268,
+        "place_id": "ChIJL52lS_Mc2jERlkQq6UuX9aQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PULSE CLINIC PTE LTD",
+        "formatted_address": "38 Beo Cres, Singapore 160038",
+        "lat": 1.2884843,
+        "lng": 103.82751,
+        "place_id": "ChIJa79oTX8Z2jERb-OCWJpZBFw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PUNGGOL FAMILY CLINIC PTE. LTD.",
+        "formatted_address": "322, #01-03 Sumang Walk, Singapore 820322",
+        "lat": 1.4111492,
+        "lng": 103.8973615,
+        "place_id": "ChIJLy9c9gIW2jER57djcY74UbM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PUNGGOL RIPPLES FAMILY CLINIC",
+        "formatted_address": "211D Punggol Walk, #01-667, Singapore 824211",
+        "lat": 1.4009644,
+        "lng": 103.8992195,
+        "place_id": "ChIJIwvg0AkW2jERnchAzTJRYG8",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "PURE DENTAL",
+        "formatted_address": "Tampines Street 11, #01-140 Block 138, Singapore 521138",
+        "lat": 1.3452862,
+        "lng": 103.9454857,
+        "place_id": "ChIJI9NVYhY92jERuVK3xndqVJY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PURE DENTAL STUDIO",
+        "formatted_address": "Lor 6 Toa Payoh, #01-572 Block 190, Singapore 310190",
+        "lat": 1.3329918,
+        "lng": 103.8486522,
+        "place_id": "ChIJe2a7xv8W2jERgZkWaRI3IBM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PURE MEDICAL AESTHETICS CLINIC",
+        "formatted_address": "8 Empress Rd, #01-09, Singapore 260008",
+        "lat": 1.3164667,
+        "lng": 103.8058649,
+        "place_id": "ChIJvZDY6xEa2jERp6axkqbAyx4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PURE NZ DENTAL",
+        "formatted_address": "62 Jln Jurong Kechil, JK Building, Singapore 598584",
+        "lat": 1.3404858,
+        "lng": 103.7738925,
+        "place_id": "ChIJB5_bF2IQ2jERy7Vymwi_wew",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "PWEE HOCK SWEE",
+        "formatted_address": "Mount Elizabeth Medical Centre #11-02, 3 Mount Elizabeth (S)228510, Singapore 228510",
+        "lat": 1.3044259,
+        "lng": 103.835166,
+        "place_id": "ChIJuaCiV5IZ2jERP5q_2Tiz2CE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE (BUGIS)",
+        "formatted_address": "200 Victoria Street #02-28 Bugis Junction, Singapore 188021",
+        "lat": 1.2991455,
+        "lng": 103.8553629,
+        "place_id": "ChIJN88SrroZ2jERhDOv6YQOZFU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE (JURONG EAST CENTRAL)",
+        "formatted_address": "50, #03-24 Jurong Gateway Rd, Jem, Singapore 608549",
+        "lat": 1.3329456,
+        "lng": 103.7434334,
+        "place_id": "ChIJNWIiegUQ2jEROUyQkEFrEhU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE (NOVENA)",
+        "formatted_address": "#02-47 Velocity @ Novena Square 238 Thomson Road Beside office tower, Singapore 307683",
+        "lat": 1.3199572,
+        "lng": 103.8439076,
+        "place_id": "ChIJC2qm8uAZ2jERACE7Q9nv5_s",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE (ORCHARD) PTE LTD",
+        "formatted_address": "176 Orchard Rd, #03-16/17/18/19 The Centrepoint, Singapore 238843",
+        "lat": 1.3020917,
+        "lng": 103.8400365,
+        "place_id": "ChIJRZ1c0JYZ2jERFBvyFo23FlY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE (RIVER VALLEY) PTE LTD",
+        "formatted_address": "19 Hoot Kiam Rd, Singapore 249401",
+        "lat": 1.2963149,
+        "lng": 103.8300408,
+        "place_id": "ChIJLQBMeUUZ2jERKcexEiQ-J3s",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL CENTRE PTE LTD",
+        "formatted_address": "180 Kitchener Road #B1 - 13 / 14 City Square Mall, Singapore 208539",
+        "lat": 1.3114531,
+        "lng": 103.8568331,
+        "place_id": "ChIJq6qq-pkZ2jERKVheIpz9U4k",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (ADMIRALTY) PTE LTD",
+        "formatted_address": "Block 717, #01-114, Woodlands Drive 70, Singapore 730717",
+        "lat": 1.441111,
+        "lng": 103.799198,
+        "place_id": "ChIJAepNOXUT2jERrmM-ParDjO0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (ANG MO KIO CENTRAL) PTE LTD",
+        "formatted_address": "No. 51, Ang Mo Kio Ave 3, #01-01 51@AMK, Singapore 569922",
+        "lat": 1.369309,
+        "lng": 103.8472132,
+        "place_id": "ChIJg0d_JecW2jERdhXhCJUX4b0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BEDOK CENTRAL)",
+        "formatted_address": "214 Bedok North Street 1, #01-173, Singapore 460214",
+        "lat": 1.325937,
+        "lng": 103.932733,
+        "place_id": "ChIJkZU1rbQi2jERSma9GEHuna8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BEDOK)",
+        "formatted_address": "311 New Upper Changi Road, #02-01 Bedok Mall, Singapore 467360",
+        "lat": 1.3246761,
+        "lng": 103.929248,
+        "place_id": "ChIJfwp0G7Mi2jERA7Tqw4NBzs4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BISHAN)",
+        "formatted_address": "502 Bishan Street 11, #01-350, Singapore 570502",
+        "lat": 1.3485815,
+        "lng": 103.8481523,
+        "place_id": "ChIJAzGKSBQX2jEROaromalyQyY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BOON LAY MRT)",
+        "formatted_address": "301 Boon Lay Way, #01-05 Boon Lay MRT Station, Singapore 649846",
+        "lat": 1.3386122,
+        "lng": 103.7060998,
+        "place_id": "ChIJTfAhLO0P2jER6W_QkGD_si4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BRADDELL)",
+        "formatted_address": "Lor 1 Toa Payoh, #01-360 Block 111, Singapore 310111",
+        "lat": 1.3412293,
+        "lng": 103.8454701,
+        "place_id": "ChIJvU_FPWoX2jER9Og7ftqZaEA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BT BATOK CENTRAL)",
+        "formatted_address": "Blk 634 Bukit Batok Central, #01-112, Singapore 650634",
+        "lat": 1.3494848,
+        "lng": 103.7513932,
+        "place_id": "ChIJnaS2Qj8Q2jERYoz_alB8lI4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BT BATOK) PTE LTD",
+        "formatted_address": "#01-252 Bukit Batok Street 11, Blk 151, Singapore 650151",
+        "lat": 1.3487345,
+        "lng": 103.7442475,
+        "place_id": "ChIJnaCiTzwQ2jERtf7KQ8ekym8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BT PANJANG) PTE LTD",
+        "formatted_address": "257 Bangkit Rd, Singapore 670257",
+        "lat": 1.3785663,
+        "lng": 103.7727534,
+        "place_id": "ChIJv9jMMqcR2jERw-olIPP_gts",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BT TIMAH) PTE LTD",
+        "formatted_address": "3a Cheong Chin Nam Rd, Singapore 599728",
+        "lat": 1.3424189,
+        "lng": 103.7753002,
+        "place_id": "ChIJAQAAEIoQ2jERzOlhZSG_pZs",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (BUANGKOK MRT)",
+        "formatted_address": "10 Sengkang Central #01-01 Buangkok MRT Station (Exit A, Singapore 545061",
+        "lat": 1.3832926,
+        "lng": 103.8929231,
+        "place_id": "ChIJx3VcYRUW2jERThYPRBcH_3E",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (CLEMENTI CENTRAL) PTE LTD",
+        "formatted_address": "#01-291 Blk, 450 Clementi Ave 3, Singapore 120450",
+        "lat": 1.3135086,
+        "lng": 103.7654817,
+        "place_id": "ChIJI8QBco4a2jERUrS3ThKnKIk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (CLEMENTI WEST) PTE LTD",
+        "formatted_address": "#01-206 Clementi West Street 2, Block 725, Singapore 120725",
+        "lat": 1.303395,
+        "lng": 103.763811,
+        "place_id": "ChIJweI9GVAb2jERL66ZYN_DhF0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (CLEMENTI) PTE LTD",
+        "formatted_address": "321, #02-02 Clementi Ave 3, 321, Singapore 129905",
+        "lat": 1.3119864,
+        "lng": 103.7650332,
+        "place_id": "ChIJgfX_R44a2jERw-welbMRSJ8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (ELIAS MALL) PTE LTD",
+        "formatted_address": "#02-308 Elias Mall, 625 Elias Rd, Singapore 510625",
+        "lat": 1.3785264,
+        "lng": 103.9418846,
+        "place_id": "ChIJpZuslr492jERR0XP6hMzFKk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (EUNOS MRT)",
+        "formatted_address": "30 Eunos Cres, #01-14/15, Singapore 409423",
+        "lat": 1.319782,
+        "lng": 103.902892,
+        "place_id": "ChIJA08Q0gQY2jERM7Mcl84tcIA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (GOMBAK MRT) PTE LTD",
+        "formatted_address": "802 Bukit Batok West Ave 5, #01-09 Bukit Gombak MRT Station, Singapore 659083",
+        "lat": 1.3589073,
+        "lng": 103.7518214,
+        "place_id": "ChIJ____FzYQ2jERUgK2wD2vsXQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (GOMBAK) PTE LTD",
+        "formatted_address": "371 Bukit Batok Street 31, Block 371, Singapore 650371",
+        "lat": 1.3593876,
+        "lng": 103.7507293,
+        "place_id": "ChIJ3zQuDzMQ2jERLjvOxBWuBIA",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (HAVELOCK ROAD)",
+        "formatted_address": "51 Havelock Rd, #01-03 Havelock View, Singapore 161051",
+        "lat": 1.2899302,
+        "lng": 103.8277208,
+        "place_id": "ChIJt3LJH1cZ2jERkQwAUMykASQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (HOLLAND VILLAGE)",
+        "formatted_address": "200 Holland Ave, #B1-19 Holland Village MRT Station, Singapore 278995",
+        "lat": 1.3111352,
+        "lng": 103.7961393,
+        "place_id": "ChIJWRkNZWsa2jERlppN4vyeLXI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (HOUGANG CENTRAL) PTE LTD",
+        "formatted_address": "Hougang Central, #01-230/232 Blk 810, Singapore 530810",
+        "lat": 1.3715423,
+        "lng": 103.8933293,
+        "place_id": "ChIJn7DHqDcW2jERnsZa3sddJ7M",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (HOUGANG MALL) PTE LTD",
+        "formatted_address": "90 Hougang Avenue 10 #04-07 Hougang Mall, Singapore 538766",
+        "lat": 1.3730419,
+        "lng": 103.8942983,
+        "place_id": "ChIJATDQgzcW2jERD4faTLQEmzs",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (HOUGANG)",
+        "formatted_address": "1187 Upper Serangoon Rd, #01-55 The Midtown, Singapore 533971",
+        "lat": 1.3704982,
+        "lng": 103.8953563,
+        "place_id": "ChIJcWmLJDcW2jERpy4RdQCFNLU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (JELAPANG) PTE LTD",
+        "formatted_address": "524A Jelapang Rd, Singapore 671524",
+        "lat": 1.3849826,
+        "lng": 103.7664577,
+        "place_id": "ChIJAQAAAJkR2jERpvhKJPFgVWU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (KALLANG MRT) PTE LTD",
+        "formatted_address": "5 Sims Avenue, #01-02 Kallang MRT Station, Singapore 387405",
+        "lat": 1.311472,
+        "lng": 103.871353,
+        "place_id": "ChIJAQAAcDQY2jERyW3kw8WC8eo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (KHATIB) PTE LTD",
+        "formatted_address": "Yishun Ring Road #01-3613, Blk 846, Singapore 760846",
+        "lat": 1.4169833,
+        "lng": 103.8345608,
+        "place_id": "ChIJHeD_PxIU2jERyUfuLvo9pNE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (KOVAN) PTE LTD",
+        "formatted_address": "203, #01-87 Hougang Street 21, Singapore 530203",
+        "lat": 1.3581182,
+        "lng": 103.8844493,
+        "place_id": "ChIJF0LSPqEX2jERnodmN7LxTnw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (MARINE PARADE)",
+        "formatted_address": "#01-664 Marine Parade Central, Blk 85, Singapore 440085",
+        "lat": 1.3017029,
+        "lng": 103.9062154,
+        "place_id": "ChIJeSijb3EY2jERDIO7P2mgzMc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (MARSILING) PTE LTD",
+        "formatted_address": "304 Woodlands Street 31, #01-123, Singapore 730304",
+        "lat": 1.4298927,
+        "lng": 103.7737696,
+        "place_id": "ChIJq4DpjK0T2jERodkQPOGLCb8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (NOVENA)",
+        "formatted_address": "238 Thomson Rd, Singapore 307683",
+        "lat": 1.3201359,
+        "lng": 103.8438561,
+        "place_id": "ChIJ-3O7cecZ2jER1hWkjFVRKFM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (OLD AIRPORT RD) PTE LTD",
+        "formatted_address": "39 Jln Tiga, Block 39, Singapore 390039",
+        "lat": 1.3077569,
+        "lng": 103.8850026,
+        "place_id": "ChIJJw-iqTgY2jER7crM2Mm-_fg",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (PASIR RIS) PTE LTD",
+        "formatted_address": "1 Pasir Ris Central Street 3, #05 - 08 / 09, Singapore 518457",
+        "lat": 1.3725563,
+        "lng": 103.9495665,
+        "place_id": "ChIJX_X__6892jER8N3AYWQH7wc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (PAYA LEBAR)",
+        "formatted_address": "10 Paya Lebar Road, #04-27 Paya Lebar Quarter, Singapore 409057",
+        "lat": 1.316622,
+        "lng": 103.8924786,
+        "place_id": "ChIJf_I-M6sZ2jERDU25PlVBi9A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (POTONG PASIR)",
+        "formatted_address": "51 Upper Serangoon Rd, #03-10/11 The Poiz Centre, Singapore 347697",
+        "lat": 1.3310243,
+        "lng": 103.8678056,
+        "place_id": "ChIJQ0SYnyMX2jERtEiimnbImBU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (PUNGGOL MRT)",
+        "formatted_address": "70 Punggol Central, #01-07, Singapore 828868",
+        "lat": 1.4051007,
+        "lng": 103.9024291,
+        "place_id": "ChIJo02pr-QV2jERlkouWDPrTvE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (REDHILL MRT) PTE LTD",
+        "formatted_address": "920 Tiong Bahru Rd, Singapore 158792",
+        "lat": 1.289788,
+        "lng": 103.816615,
+        "place_id": "ChIJ____x9Qb2jERUgV_FX5dF14",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SELETAR)",
+        "formatted_address": "33 Sengkang West Ave, #04-16 The Seletar Mall, Singapore 797653",
+        "lat": 1.391725,
+        "lng": 103.8760629,
+        "place_id": "ChIJf45Y0GQW2jERy0M2K2dtkv4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SEMBAWANG MRT) PTE LTD",
+        "formatted_address": "11 Canberra Rd, Singapore 759775",
+        "lat": 1.44899,
+        "lng": 103.819745,
+        "place_id": "ChIJp2sHpYIU2jEReelW-S4wW10",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SERANGOON CENTRAL)",
+        "formatted_address": "#04-25 NEX, 23 Serangoon Central, Singapore 556083",
+        "lat": 1.3506325,
+        "lng": 103.8727866,
+        "place_id": "ChIJ____r6YX2jERBOMsG4WAlus",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SERANGOON CENTRAL) PTE LTD",
+        "formatted_address": "Blk 264 Serangoon Central Drive #01-235, Singapore 550264",
+        "lat": 1.3528337,
+        "lng": 103.872341,
+        "place_id": "ChIJ2XhAX6YX2jERGCGJhH01ptU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SERANGOON NORTH) PTE LTD",
+        "formatted_address": "Serangoon North Ave 1, #01-536 Blk 153, Singapore 550153",
+        "lat": 1.3702291,
+        "lng": 103.8722427,
+        "place_id": "ChIJ87EQ6lYW2jERz5k35BQ0-yk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SERANGOON) PTE LTD",
+        "formatted_address": "Blk 261, #01-29 Serangoon Central Dr, Singapore 550261",
+        "lat": 1.3539372,
+        "lng": 103.872293,
+        "place_id": "ChIJNX6RQKYX2jERrkhVdeMR_B0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (SIMEI MRT)",
+        "formatted_address": "30 Simei Street 3, #01-09 Simei MRT Station, Singapore 529888",
+        "lat": 1.3430733,
+        "lng": 103.9534572,
+        "place_id": "ChIJOZNzOCI92jERrbjVK4pz3Kc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TAMPINES CENTRAL)",
+        "formatted_address": "10 Tampines Central 1, #04-18 / 19, Singapore 529536",
+        "lat": 1.354212,
+        "lng": 103.9450352,
+        "place_id": "ChIJeftUIA492jERzS0XyzNQWsM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TAMPINES MRT)",
+        "formatted_address": "20 Tampines Central 1, Singapore 529538",
+        "lat": 1.353448,
+        "lng": 103.945119,
+        "place_id": "ChIJY743wxE92jERH88xoaADvZo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TAMPINES)",
+        "formatted_address": "2 Tampines Central 5, #03-16 Century Square, Singapore 529509",
+        "lat": 1.3521456,
+        "lng": 103.9439207,
+        "place_id": "ChIJpUqUIGE92jERCyt7Gmes4zY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TANJONG KATONG) PTE LTD",
+        "formatted_address": "11 Tanjong Katong Rd, #B1-13, Kinex 437157",
+        "lat": 1.3149868,
+        "lng": 103.8946433,
+        "place_id": "ChIJPVdhKvQZ2jERCKp0PnSIQD8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TIONG BAHRU) PTE LTD",
+        "formatted_address": "18 Jln Membina, Singapore 164018",
+        "lat": 1.2857124,
+        "lng": 103.8268301,
+        "place_id": "ChIJPb_VtX4Z2jERFjvNFoCR4bE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TOA PAYOH CENTRAL) PTE LTD",
+        "formatted_address": "177 Toa Payoh Central, #01-150, Singapore 310177",
+        "lat": 1.33388,
+        "lng": 103.84886,
+        "place_id": "ChIJ0x_lT2YX2jERhbOraSXTu_g",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TOA PAYOH) PTE LTD",
+        "formatted_address": "190 Lor 6 Toa Payoh, Singapore",
+        "lat": 1.3330122,
+        "lng": 103.8491698,
+        "place_id": "ChIJNadbjWYX2jERzHWRhQz7lLo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TOH YI)",
+        "formatted_address": "19 Toh Yi Dr, #01-123, Singapore 590019",
+        "lat": 1.339938,
+        "lng": 103.7739506,
+        "place_id": "ChIJMdBuFWIQ2jERZGURd9Qqvf4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (TOWNER ROAD)",
+        "formatted_address": "Towner Rd, #01-250 Block 102, Singapore 322102",
+        "lat": 1.3206918,
+        "lng": 103.8620709,
+        "place_id": "ChIJZVVH79AZ2jERecAp5nvBLzM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (WOODLANDS)",
+        "formatted_address": "Blk 573, Woodlands Drive 16, #01-07, Singapore 730573",
+        "lat": 1.4311165,
+        "lng": 103.7984587,
+        "place_id": "ChIJswMWne8T2jEROKm1Jn3Ones",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (YEW TEE)",
+        "formatted_address": "21 Choa Chu Kang North 6, #01-32 Yew Tee Point, Singapore 689578",
+        "lat": 1.397281,
+        "lng": 103.746697,
+        "place_id": "ChIJQ7Yo-fMR2jER20KXRGFS-3A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (YISHUN CENTRAL)",
+        "formatted_address": "930 Yishun Avenue 2 #03-26 Northpoint City North Wing, Singapore 769098",
+        "lat": 1.42959,
+        "lng": 103.8357694,
+        "place_id": "ChIJIbGU73sU2jERBqzshQ6cfYk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (YISHUN CENTRAL) PTE LTD",
+        "formatted_address": "743 Yishun Ave 5, Singapore 760743",
+        "lat": 1.4299137,
+        "lng": 103.8336744,
+        "place_id": "ChIJq6qqmm8U2jER3Z0qiizX4fk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M DENTAL SURGERY (YISHUN RING ROAD)",
+        "formatted_address": "598 Yishun Ring Rd, #B1-10 Wisteria Mall, Singapore 768698",
+        "lat": 1.4182043,
+        "lng": 103.8412627,
+        "place_id": "ChIJ0-Wu_NMV2jERNKP3bOwZIVw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MEDICAL & AESTHETIC CLINIC (FARRER PARK)",
+        "formatted_address": "180 Kitchener Rd, #B1-13 City Square Mall, Singapore 208539",
+        "lat": 1.3113982,
+        "lng": 103.8565897,
+        "place_id": "ChIJa3_B3sUZ2jEROF-yVcPVhDU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MEDICAL & AESTHETIC CLINIC (TAMPINES CENTRAL) PTE. LTD.",
+        "formatted_address": "10 Tampines Central 1, #04-18/19, Singapore 529536",
+        "lat": 1.3542027,
+        "lng": 103.9451079,
+        "place_id": "ChIJnS9VIA492jEReapcRLt6osg",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MEDICAL CLINIC (BUANGKOK MRT) PTE. LTD.",
+        "formatted_address": "10 Sengkang Central, #01-02, Singapore 545061",
+        "lat": 1.3829163,
+        "lng": 103.8933522,
+        "place_id": "ChIJmf5ZheAX2jERklUinVKgGXU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MEDICAL CLINIC (BUKIT BATOK)",
+        "formatted_address": "#01-252 Bukit Batok Street 11, Blk 151, Singapore 650151",
+        "lat": 1.3486969,
+        "lng": 103.7442571,
+        "place_id": "ChIJZ9aQTzwQ2jERhzxU16zJzzc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MEDICAL FAMILY CLINIC",
+        "formatted_address": "Blk 261 Serangoon Central Dr, #01-29, Singapore 550261",
+        "lat": 1.3536883,
+        "lng": 103.8725101,
+        "place_id": "ChIJy3-RQKYX2jERNGuPNAigih0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "Q & M MUTUAL HEALTHCARE MEDICAL CLINIC",
+        "formatted_address": "70 Punggol Central, #01-07, Singapore 828868",
+        "lat": 1.4054698,
+        "lng": 103.9025367,
+        "place_id": "ChIJOXizU-MV2jERGGta5DooU5Q",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "QUAH HAK MIEN COLORECTAL CENTRE PTE. LTD.",
+        "formatted_address": "6 Napier Rd, Singapore 258499",
+        "lat": 1.307592,
+        "lng": 103.8199225,
+        "place_id": "ChIJ30VnOSAa2jERTQBomx9BtmY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "QUANTUM MEDICAL CLINIC",
+        "formatted_address": "12 Kallang Ave, #02-05/06 Aperia Mall, Singapore 339511",
+        "lat": 1.3096716,
+        "lng": 103.8644238,
+        "place_id": "ChIJ6xSP470Z2jERrZmoQLc7OJo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "QUEENSTOWN POLYCLINIC",
+        "formatted_address": "580 Stirling Rd, Singapore 148958",
+        "lat": 1.2984307,
+        "lng": 103.8010528,
+        "place_id": "ChIJXbRXBToa2jERH8dVy5KpwXs",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "QUEK & MARCOU DEVELOPMENTAL AND BEHAVIOURAL PAEDIATRICS CLINIC",
+        "formatted_address": "10 Sinaran Dr, #10-12, Singapore 307506",
+        "lat": 1.3207786,
+        "lng": 103.8442073,
+        "place_id": "ChIJGYoTXecZ2jERX72Qvuee9G0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "QUEK & ME DENTAL SURGERY",
+        "formatted_address": "Choa Chu Kang Central, #01-199 Block 225, Singapore 680225",
+        "lat": 1.3813016,
+        "lng": 103.7450446,
+        "place_id": "ChIJm-xXtcMR2jER6a99fYZXoOE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADHIKA BREAST & GENERAL SURGERY",
+        "formatted_address": "1 Farrer Park Station Rd, #14-20 Connexion, Singapore 217562",
+        "lat": 1.3127619,
+        "lng": 103.8545562,
+        "place_id": "ChIJd9q126UZ2jER-Hh7cjPR4zY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADHIKA BREAST & GENERAL SURGERY",
+        "formatted_address": "Parkway East Medical Centre, 319 Joo Chiat Pl, #02-03, Singapore 427989",
+        "lat": 1.3151919,
+        "lng": 103.9090302,
+        "place_id": "ChIJr2kntQsZ2jERyb8g4Kj3NBQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADIANCE DENTAL CARE @ DAWSON",
+        "formatted_address": "57 Dawson Rd, Singapore 142057",
+        "lat": 1.2927082,
+        "lng": 103.8110301,
+        "place_id": "ChIJiRcBky0a2jERvrZmJHadnc0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADIANT MEDICAL + AESTHETIC CENTRE",
+        "formatted_address": "810 Hougang Central, #01-220, Singapore 530810",
+        "lat": 1.3716219,
+        "lng": 103.893653,
+        "place_id": "ChIJc0iBKlsW2jERW5GmlS3tHZk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADIOLOGIQ MEDICAL CENTRE",
+        "formatted_address": "1 Tuas S Ln, Singapore 637301",
+        "lat": 1.2829074,
+        "lng": 103.6375303,
+        "place_id": "ChIJeXeYnSkE2jERbwYAwzxqVrk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADIUM MEDICAL AESTHETICS",
+        "formatted_address": "3 Temasek Boulevard, North Wing, Tower 2, #03-325/326 Suntec City Mall, Singapore 038983",
+        "lat": 1.2960179,
+        "lng": 103.8586827,
+        "place_id": "ChIJJaWNB68Z2jER3gtMoWOGVz0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RADLINK PET AND CARDIAC IMAGING CENTRE PTE LTD",
+        "formatted_address": "290 Orchard Rd, #08-05/06 Paragon Medical, Singapore 238859",
+        "lat": 1.3039054,
+        "lng": 103.8355763,
+        "place_id": "ChIJl_sOMpIZ2jER93iC8AEqVc4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLES EXECUTIVE MEDICAL CENTRE",
+        "formatted_address": "585 North Bridge Rd, Level 12 Raffles Hospital, Singapore 188770",
+        "lat": 1.301349,
+        "lng": 103.85715,
+        "place_id": "ChIJ7xcJkLAZ2jERZnmNdqp-8QU",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "RAFFLESCHILDREN'SCENTRE",
+        "formatted_address": "10 Tampines Central 1, #04-33, Singapore 529536",
+        "lat": 1.35414,
+        "lng": 103.944947,
+        "place_id": "ChIJGQNAIA492jER5nqb3c0qH_U",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "65 Airport Boulevard, #B2-01 Passenger Terminal 3, Singapore Changi Airport, Singapore 819663",
+        "lat": 1.355955,
+        "lng": 103.986809,
+        "place_id": "ChIJY2hsL3A82jERVm2v7sg6d6w",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "10 Tampines Central 1, #04-33, Singapore 529536",
+        "lat": 1.3542245,
+        "lng": 103.9449976,
+        "place_id": "ChIJ____IA492jER6HqFdSDTUfw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "1 Woodlands Square, #05-01A Causeway Point, Singapore 738099",
+        "lat": 1.436056,
+        "lng": 103.7863858,
+        "place_id": "ChIJzdJAmqgT2jERUuftHyS9rqc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "50 Raffles Place, #01-02A/C Singapore Land Tower, Singapore 048623",
+        "lat": 1.2849198,
+        "lng": 103.8520587,
+        "place_id": "ChIJBdSqpRQZ2jERPPuSYAiVuvc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "1 Pasir Ris Central Street 3, #04-19 White Sands, Singapore 518457",
+        "lat": 1.372455,
+        "lng": 103.949747,
+        "place_id": "ChIJDQ5i_q892jEREshja_0JOeU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "12 Marina Blvd, Singapore 018982",
+        "lat": 1.2790221,
+        "lng": 103.8544967,
+        "place_id": "ChIJj1FKMw4Z2jERUDz1GxgD08o",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "6 Raffles Boulevard, #01-212 Marina Square, Singapore 039594",
+        "lat": 1.290989,
+        "lng": 103.857422,
+        "place_id": "ChIJAQAAZKgZ2jER8uOmkY-VAHA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "118 Holland Avenue #05-02/03/04 Raffles, Singapore 278997",
+        "lat": 1.3105763,
+        "lng": 103.7961869,
+        "place_id": "ChIJkzv8Amsa2jERg3N8TR_Du8k",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "1 Sengkang Square, 04-09, Singapore 545078",
+        "lat": 1.3923825,
+        "lng": 103.8951314,
+        "place_id": "ChIJMWB1iQ0W2jERlQpd9J7Gi2o",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "1 Tampines Walk, Singapore",
+        "lat": 1.3529604,
+        "lng": 103.9403451,
+        "place_id": "ChIJmYE6fhI92jERK2lpT8lIRgY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "17 Petir Road, Hillion Mall, #02-08, Singapore 678278",
+        "lat": 1.3787698,
+        "lng": 103.7624498,
+        "place_id": "ChIJ-YA8prwR2jERa9ifPhrv8Ho",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "585 North Bridge Rd, Singapore 188770",
+        "lat": 1.3011904,
+        "lng": 103.8572692,
+        "place_id": "ChIJ____T0Ua2jERhJf9ckfXimU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESDENTAL",
+        "formatted_address": "1 Scotts Road Unit #04 - 09 / 14, Singapore 228208",
+        "lat": 1.3066236,
+        "lng": 103.8314061,
+        "place_id": "ChIJe2sIc40Z2jERdygIlaiIxg4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESHEALTHSCREENERS",
+        "formatted_address": "118 Holland Ave, Singapore 278973",
+        "lat": 1.3105584,
+        "lng": 103.7961823,
+        "place_id": "ChIJf2SJA2sa2jERSrwcPU_QRvI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESHEALTHSCREENERS",
+        "formatted_address": "83 Punggol Central, Singapore 828761",
+        "lat": 1.40669,
+        "lng": 103.9021738,
+        "place_id": "ChIJLTCPpuQV2jERYMYF_2uprDE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESIA DENTAL SURGERY",
+        "formatted_address": "100, #01-04A Jln Sultan, Sultan Plaza, Singapore 199001",
+        "lat": 1.3033612,
+        "lng": 103.8616449,
+        "place_id": "ChIJF2RjrrYZ2jERTbaNK8D6CoQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESJAPANESECLINIC",
+        "formatted_address": "1 Scotts Rd, Singapore 228208",
+        "lat": 1.3062718,
+        "lng": 103.8318994,
+        "place_id": "ChIJdVshco0Z2jER5H03m10YGas",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESJAPANESEDENTAL",
+        "formatted_address": "1 Scotts Rd, Singapore 228208",
+        "lat": 1.3062718,
+        "lng": 103.8318994,
+        "place_id": "ChIJdVshco0Z2jER5H03m10YGas",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Woodlands Square, #05-20, Singapore 738099",
+        "lat": 1.4361609,
+        "lng": 103.7863199,
+        "place_id": "ChIJJ2dCl6gT2jERIwqQfMejIlU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "55 Siglap Rd, #02-11/12 Siglap Centre, Singapore 455871",
+        "lat": 1.31267,
+        "lng": 103.923153,
+        "place_id": "ChIJWfa9h6Qi2jERlrgVLn4JAe8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Airport Blvd, Singapore Changi Airport (SIN), Singapore",
+        "lat": 1.3644202,
+        "lng": 103.9915308,
+        "place_id": "ChIJ483Qk9YX2jERA0VOQV7d1tY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "​Blk 283 Bishan Street 22, #01-177, Singapore 570283",
+        "lat": 1.358904,
+        "lng": 103.8448076,
+        "place_id": "ChIJIUkbqhgX2jERBKulOS5cwbw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "21 Choa Chu Kang Ave 4, #B1 - 07A, Singapore 689812",
+        "lat": 1.3847342,
+        "lng": 103.7448635,
+        "place_id": "ChIJs5CBlukR2jERXsX8Fr-f478",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "252 North Bridge Rd, #02 - 17, Singapore 179103",
+        "lat": 1.2943964,
+        "lng": 103.8529515,
+        "place_id": "ChIJp4zYJ6QZ2jERZN_zSYl9J10",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Blk 259 Pasir Ris Street 21, #02-33 Loyang Point, Singapore 510259",
+        "lat": 1.3664797,
+        "lng": 103.9644911,
+        "place_id": "ChIJL7ZNaFQ82jERG0nE6vQksRM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "#01-267 Jurong Gateway Rd, Blk 131, Singapore",
+        "lat": 1.3343739,
+        "lng": 103.7396861,
+        "place_id": "ChIJB45meQUQ2jERP7kXkbX7IT4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "#26-053 Departure Hall, Singapore Changi Airport Passenger Terminal Building 2, Singapore 819643",
+        "lat": 1.355456,
+        "lng": 103.989737,
+        "place_id": "ChIJh3-HlxAY2jERjoHXZVhIupY",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Blk 722 Ang Mo Kio Avenue 8, #01-2825, Singapore 560722",
+        "lat": 1.372236,
+        "lng": 103.847521,
+        "place_id": "ChIJ1dN9yucW2jERY43uL_D7f-o",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "50 Raffles Place, #01-02C Singapore Land Tower, Singapore 048623",
+        "lat": 1.2843038,
+        "lng": 103.8522371,
+        "place_id": "ChIJE_EqkLAZ2jERsbHTUHrMA7A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "809 Hougang Central, #01-180, Singapore 530809",
+        "lat": 1.3712468,
+        "lng": 103.8939856,
+        "place_id": "ChIJn7DHqDcW2jERMYgjyehk7U8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "51 Anson Rd, #01-51 Anson Centre, Singapore 079904",
+        "lat": 1.274632,
+        "lng": 103.845733,
+        "place_id": "ChIJeVXDpBQZ2jER6QXjqBOkNfc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "6 Raffles Boulevard, #01-212 Marina Square, Singapore 039594",
+        "lat": 1.2910519,
+        "lng": 103.85891,
+        "place_id": "ChIJ1ahTUagZ2jERvs4rmgeR9UM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Blk 177 Toa Payoh Central, #01-170, Singapore 310177",
+        "lat": 1.3338747,
+        "lng": 103.8496671,
+        "place_id": "ChIJ-eEQXGYX2jERG0--TRHkM24",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "168 Robinson Rd, #02-02 Capital Tower, Singapore 068912",
+        "lat": 1.277649,
+        "lng": 103.8474948,
+        "place_id": "ChIJac1W_hIZ2jERulM70NDYZ-A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "370 Alexandra Rd, B1-41, Singapore 159953",
+        "lat": 1.2884562,
+        "lng": 103.8049508,
+        "place_id": "ChIJ6wdksMwb2jERtaqChiFaBUI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "65 Airport Boulevard, #B2-01 Singapore Changi Airport, Singapore 819663",
+        "lat": 1.3567159,
+        "lng": 103.98651,
+        "place_id": "ChIJ_-4P-ow82jERuJBbBoncXa0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Maritime Square, #03-56, Singapore 099253",
+        "lat": 1.264821,
+        "lng": 103.820312,
+        "place_id": "ChIJ_-4P-ow82jERnHwxSWa6WjI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "391B Orchard Road, 08-06, Singapore 238872",
+        "lat": 1.3024805,
+        "lng": 103.8343292,
+        "place_id": "ChIJN_SOj5EZ2jERv9A0a8UBwSo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "10 Tampines Central 1, #03-28, Singapore 529536",
+        "lat": 1.354276,
+        "lng": 103.945289,
+        "place_id": "ChIJY_X_PxI92jERr2tZ7YDdAx4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Sembawang Way, #01-06/07 Block 355A, Singapore 750355",
+        "lat": 1.4495648,
+        "lng": 103.818765,
+        "place_id": "ChIJcQVMIGMT2jER4OpN5ae3UIk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "10e Sixth Ave, #01-03, Singapore 276474",
+        "lat": 1.3312066,
+        "lng": 103.794759,
+        "place_id": "ChIJVVVVxZ4Q2jERtU8aLtKihuk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Changi Business Park Crescent, #01-11 Plaza 8, Singapore 486025",
+        "lat": 1.3332273,
+        "lng": 103.9661879,
+        "place_id": "ChIJ____L9c82jERBcQdjvJXsyA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "60 Airport Boulevard, B16-025 Passenger Terminal Building 2 Singapore Changi Airport, Singapore 819643",
+        "lat": 1.342948,
+        "lng": 103.982266,
+        "place_id": "ChIJ50sh0I082jERvY0bZgpcyCo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Clementi Ave 3, # 01-189 Blk 446, Singapore 120446",
+        "lat": 1.3125182,
+        "lng": 103.7649054,
+        "place_id": "ChIJiWEW-40a2jER1dGaxZ-PBf0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "23 Serangoon Central, #B2-01 NEX 1, Singapore 556083",
+        "lat": 1.3509426,
+        "lng": 103.8715642,
+        "place_id": "ChIJ____r6YX2jERny2t0O84x90",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "8 Marina View, #15-01 Asia Square Tower 1, Singapore 018960",
+        "lat": 1.279103,
+        "lng": 103.85129,
+        "place_id": "ChIJAQDA7xEZ2jER1jJ5Rzivr24",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "5 Changi Business Park Central 1, B1-55/56, Singapore 486038",
+        "lat": 1.3350199,
+        "lng": 103.9625002,
+        "place_id": "ChIJaTRtzNk82jERlu6VPkoABQk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "112 E Coast Rd, #03-17 112, Singapore 428802",
+        "lat": 1.3049894,
+        "lng": 103.9051445,
+        "place_id": "ChIJ2Zxh8XIY2jERkDK4zJKvRp0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "80 Robinson Rd, #01-00, Singapore 068898",
+        "lat": 1.2797925,
+        "lng": 103.8492353,
+        "place_id": "ChIJE5i08w0Z2jERrulW8aqqEdU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Pasir Ris Central Street 3, #04 - 19, Singapore 518457",
+        "lat": 1.372692,
+        "lng": 103.94959,
+        "place_id": "ChIJbZHV_a892jERNhrm-bgNZXE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Jurong West Central 2, #B1A-19D Jurong Point Shopping Centre, Singapore 648886",
+        "lat": 1.339743,
+        "lng": 103.706151,
+        "place_id": "ChIJs7Nuz-wP2jERddr7qyw0OlA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "65 Airport Boulevard, #B2-01 Singapore Changi Airport, Singapore 819663",
+        "lat": 1.3567159,
+        "lng": 103.98651,
+        "place_id": "ChIJ_-4P-ow82jERuJBbBoncXa0",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Bedok North Street 1, #01-467 Blk 203, Singapore 460203",
+        "lat": 1.3257466,
+        "lng": 103.9291141,
+        "place_id": "ChIJXTiNyrIi2jER1vY4SDJ1gCo",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "21 Choa Chu Kang North 6, #01-02 Yew Tee Point, Singapore 689578",
+        "lat": 1.3973283,
+        "lng": 103.7465244,
+        "place_id": "ChIJA_PFIk0a2jER2w6AhBTqHLk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "12 Marina Boulevard, #17-05 Marina Bay Financial Centre Tower 3, Singapore 018982",
+        "lat": 1.279924,
+        "lng": 103.854929,
+        "place_id": "ChIJ73Ug9w4Z2jERcWr3CizP-As",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "3 Simei Street 6, #02-27 Eastpoint Mall, Singapore 528833",
+        "lat": 1.3430618,
+        "lng": 103.9531037,
+        "place_id": "ChIJNbUBTyI92jERJ9Cx-rO_VPU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "585 North Bridge Rd, Level 2 Raffles Hospital, Singapore 188770",
+        "lat": 1.301059,
+        "lng": 103.857096,
+        "place_id": "ChIJxZfxhbAZ2jER1_HXy0rcJws",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "11 Rivervale Crescent, #02-17 Rivervale Mall, Singapore 545082",
+        "lat": 1.392256,
+        "lng": 103.904421,
+        "place_id": "ChIJn_mqNwUW2jER8HTHiDGKPYs",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "83, Punggol Central, #02-29 Waterway Point, Singapore 828761",
+        "lat": 1.40602,
+        "lng": 103.9022615,
+        "place_id": "ChIJL_NVReMV2jERUxYmGmVoKOQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "20 Airport Blvd, Singapore 819659",
+        "lat": 1.3414614,
+        "lng": 103.9838777,
+        "place_id": "ChIJbR_4gsA82jERzmr5s4yDYsg",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "118 Holland Ave, Level 5 Raffles Holland V, Singapore 278997",
+        "lat": 1.3105556,
+        "lng": 103.7961148,
+        "place_id": "ChIJkTv8Amsa2jERAt3eGKCUHV8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Sengkang Square 04-09,Compass One Mall, Singapore 545078",
+        "lat": 1.3923825,
+        "lng": 103.8951315,
+        "place_id": "ChIJgbuahQ0W2jERFewIX7YbOgk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "17 Petir Road, Hillion Mall, #02-07, Singapore 678278",
+        "lat": 1.378831,
+        "lng": 103.762937,
+        "place_id": "ChIJN9scprwR2jERrBlxmcLj2ys",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1207 Dover Rd, Singapore 139654",
+        "lat": 1.3033084,
+        "lng": 103.7776456,
+        "place_id": "ChIJNXWx01ga2jERpu2_toh7zME",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "1 Tampines Street 73, Singapore 528704",
+        "lat": 1.3585296,
+        "lng": 103.9318392,
+        "place_id": "ChIJR1ri4XM92jERgNlJlu0a15k",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "930 Yishun Ave 2, Singapore 769098",
+        "lat": 1.4279686,
+        "lng": 103.8364152,
+        "place_id": "ChIJ9RT-5DYV2jERKbQXNwU4m6A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "70 Airport Blvd, Singapore 819661 Airport Blvd, Singapore 819661",
+        "lat": 1.3579501,
+        "lng": 103.9869083,
+        "place_id": "ChIJUbb5h4w82jERIcFF4T7frWU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Airport Blvd, Singapore Changi Airport (SIN), Singapore",
+        "lat": 1.3644202,
+        "lng": 103.9915308,
+        "place_id": "ChIJ483Qk9YX2jERA0VOQV7d1tY",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "10 Tampines Central 1, #03-28, Singapore 529536",
+        "lat": 1.354276,
+        "lng": 103.945289,
+        "place_id": "ChIJY_X_PxI92jERr2tZ7YDdAx4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESMEDICAL",
+        "formatted_address": "Clementi Ave 3, # 01-189 Blk 446, Singapore 120446",
+        "lat": 1.3125182,
+        "lng": 103.7649054,
+        "place_id": "ChIJiWEW-40a2jER1dGaxZ-PBf0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESSPECIALISTS",
+        "formatted_address": "118 Holland Ave, Singapore 278973",
+        "lat": 1.3105584,
+        "lng": 103.7961823,
+        "place_id": "ChIJf2SJA2sa2jERSrwcPU_QRvI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESWOMEN'SCENTRE",
+        "formatted_address": "50 Raffles Place, #01-02A Singapore Land Tower, Singapore 048623",
+        "lat": 1.2850029,
+        "lng": 103.851904,
+        "place_id": "ChIJE8SSPgkZ2jERSlO-eTug854",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESWOMEN'SCENTRE",
+        "formatted_address": "10 Tampines Central 1, #04-33, Singapore 529536",
+        "lat": 1.354413,
+        "lng": 103.944947,
+        "place_id": "ChIJ6_w9Ig492jERpWhdOxx8R80",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAFFLESWOMEN'SCENTRE",
+        "formatted_address": "12 Marina Boulevard, Tower 3, #17-01 Marina Bay Financial Centre, Singapore 018982",
+        "lat": 1.2798897,
+        "lng": 103.8548685,
+        "place_id": "ChIJsSmt3wgZ2jERR3WWAwM8LhU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAINBOW DENTAL CLINIC",
+        "formatted_address": "501 Margaret Dr, Singapore 149306",
+        "lat": 1.2972992,
+        "lng": 103.8091038,
+        "place_id": "ChIJeV9wMDAa2jERjOejs1wCWXE",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAINBOW DENTAL SURGERY",
+        "formatted_address": "376 Bukit Batok Street 31, Singapore 650376",
+        "lat": 1.3583922,
+        "lng": 103.7496706,
+        "place_id": "ChIJx59jWTYQ2jEReX0MA2P63H4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAINTREE DENTAL CLINIC",
+        "formatted_address": "107 E Coast Rd, Singapore 428799",
+        "lat": 1.305746,
+        "lng": 103.90442,
+        "place_id": "ChIJUZ-e8nIY2jERvV-jY58t_yY",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "RATNAM'S ALLERGY & SKIN CENTRE",
+        "formatted_address": "190 Clemenceau Ave, #05-21, Singapore 239924",
+        "lat": 1.2980792,
+        "lng": 103.8440911,
+        "place_id": "ChIJD4OtBJgZ2jERnKuRZlgZQTk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAVENNA UROLOGY CLINIC",
+        "formatted_address": "#09-18 Gleneagles Medical Centre, 6 Napier Rd, Singapore 258499",
+        "lat": 1.3077263,
+        "lng": 103.8200865,
+        "place_id": "ChIJ53bhbiAa2jERhBIis6W7k14",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RAVI SURGERY",
+        "formatted_address": "3 Mount Elizabeth, Singapore 228510",
+        "lat": 1.305083,
+        "lng": 103.8353626,
+        "place_id": "ChIJuaCiV5IZ2jERdB0r9oBwFB8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RC'S FAMILY CLINIC PTE LTD",
+        "formatted_address": "635C Senja Rd, #01-03, Singapore 673635",
+        "lat": 1.3867213,
+        "lng": 103.757831,
+        "place_id": "ChIJNT9uIJQR2jERgUjoRbm_62w",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RCMC RIVERVALE CRESCENT MEDICAL CENTRE",
+        "formatted_address": "182A Rivervale Cres, #01-04, Singapore 541182",
+        "lat": 1.3903713,
+        "lng": 103.9089985,
+        "place_id": "ChIJxbkbYBsW2jERRAQD8SMHufA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RED DOT MEDICAL",
+        "formatted_address": "660A Edgedale Plains, #02-06, Singapore 821660",
+        "lat": 1.4027386,
+        "lng": 103.9166358,
+        "place_id": "ChIJ2RjZWgA-2jER3wim0byNLV8",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REDHILL DENTAL SURGERY PTE LTD",
+        "formatted_address": "Blk 75D Redhill Rd, #01-88, Singapore 154075",
+        "lat": 1.2885098,
+        "lng": 103.8158848,
+        "place_id": "ChIJp9pIUysa2jERiPFvMimeFiM",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REDWOOD CLINIC AND SURGERY PTE LTD",
+        "formatted_address": "920 Tiong Bahru Rd, #01-07 Redhill MRT Station, Singapore 158792",
+        "lat": 1.289739,
+        "lng": 103.8167551,
+        "place_id": "ChIJMQg0y-ob2jERoS-L3Spmy20",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REFLECTIONS MEDI AESTHETICS",
+        "formatted_address": "84 Serangoon Garden Way Singapore 555980 Serangoon Garden Way, Singapore 555980",
+        "lat": 1.364297,
+        "lng": 103.8649674,
+        "place_id": "ChIJH7cZK_4W2jERfvWFZrtiLJw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REGENT CLINIC",
+        "formatted_address": "301 Upper Thomson Rd, Singapore 574408",
+        "lat": 1.3546227,
+        "lng": 103.8309128,
+        "place_id": "ChIJbaYVKDAX2jERVooNlXz06fI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REGENT DENTAL CLINIC",
+        "formatted_address": "136 Potong Pasir Ave 3, Singapore 350136",
+        "lat": 1.3340619,
+        "lng": 103.8666004,
+        "place_id": "ChIJXZgwaHgX2jERPxGKEFwT2D0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD (ADMIRALTY PLACE BRANCH)",
+        "formatted_address": "678 Woodlands Ave 6, Singapore 730678",
+        "lat": 1.4399252,
+        "lng": 103.8013857,
+        "place_id": "ChIJ_W5cgnUT2jERTO2AgIzWpVA",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD (YISHUN CENTRAL BRANCH)",
+        "formatted_address": "932 Yishun Central 1, Singapore 760932",
+        "lat": 1.4264545,
+        "lng": 103.8369349,
+        "place_id": "ChIJLegG7W4U2jERPdcLaPpwVEI",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "REHABMAGNETIC MEDICAL CENTRE",
+        "formatted_address": "Royal Square at Novena, 101 Irrawaddy Rd, Singapore 329565",
+        "lat": 1.3208917,
+        "lng": 103.8431406,
+        "place_id": "ChIJme7LkncZ2jERTqFDLeqbt_0",
+        "rolled_in_clinics":true
+    },
+    {
+        "name": "REN MEDICAL CLINIC",
+        "formatted_address": "101 Yishun Ave 5, Singapore 760101",
+        "lat": 1.4305038,
+        "lng": 103.827456,
+        "place_id": "ChIJLYAU83kU2jER15d0QpxpJKU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAISSANCE DERMATOLOGY SPECIALIST CLINIC",
+        "formatted_address": "38 Irrawaddy Rd, #10-36, Singapore 329563",
+        "lat": 1.3222438,
+        "lng": 103.8440425,
+        "place_id": "ChIJn6Q2rOAZ2jERL80UGj2dgSU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL HEALTH PTE LTD",
+        "formatted_address": "Outram Rd, Singapore 169608",
+        "lat": 1.2795877,
+        "lng": 103.8358881,
+        "place_id": "ChIJ1WxMlW8Z2jERlkpUYbEJYFw",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL LIFE (ALEXANDRA) DIALYSIS CENTRE PTE LTD",
+        "formatted_address": "Bukit Merah Lane 1, #01-74 Blk 123, Singapore 150123",
+        "lat": 1.2869107,
+        "lng": 103.804138,
+        "place_id": "ChIJb0t_yBcb2jERTtTr5nKrcZU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL LIFE (HOUGANG) DIALYSIS CENTRE PTE LTD",
+        "formatted_address": "Blk, 142 Lor Ah Soo, #01-233, Singapore 530142",
+        "lat": 1.3524088,
+        "lng": 103.8826049,
+        "place_id": "ChIJ35IFw08X2jERKfyCpBt1c7k",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL LIFE (PIONEER) DIALYSIS CENTRE PTE LTD",
+        "formatted_address": "810 Jurong West Street 81, Singapore 640810",
+        "lat": 1.3469858,
+        "lng": 103.6956628,
+        "place_id": "ChIJBXDwab0P2jERgAq6C_l41lQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL LIFE (W) DIALYSIS CENTRE PTE LTD",
+        "formatted_address": "207 Bukit Batok Street 21, Singapore 650207",
+        "lat": 1.3462385,
+        "lng": 103.7493298,
+        "place_id": "ChIJ4y8F0z8Q2jER2kAL312UnyU",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENAL LIFE DIALYSIS CENTRE PTE LTD",
+        "formatted_address": "463 Jurong West Street 41, Singapore 640463",
+        "lat": 1.3506271,
+        "lng": 103.723095,
+        "place_id": "ChIJEz4bANwP2jERDoiqrjKfBRk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE ANG MO KIO",
+        "formatted_address": "128 Ang Mo Kio Ave 3, Singapore 560128",
+        "lat": 1.3708109,
+        "lng": 103.8436139,
+        "place_id": "ChIJqwHGnt0W2jERULDHCQw25Uk",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE AT REN CI COMMUNITY HOSPITAL",
+        "formatted_address": "71 Irrawaddy Road #03-20 Ren Ci Community Hospital, Singapore 329562",
+        "lat": 1.322947,
+        "lng": 103.845714,
+        "place_id": "ChIJo0LMF94Z2jER3FBAOL66u9A",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE BEDOK",
+        "formatted_address": "418 Bedok North Ave 2, Singapore 460418",
+        "lat": 1.3285954,
+        "lng": 103.930027,
+        "place_id": "ChIJk_dDWUw92jERQgyyoN2dZ7E",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE BUKIT MERAH",
+        "formatted_address": "131 Jalan Bukit Merah, #01-1575, Singapore 160131",
+        "lat": 1.2802434,
+        "lng": 103.8282689,
+        "place_id": "ChIJgU9MTnsZ2jERLX2q6zoXn4s",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE FENGSHAN",
+        "formatted_address": "89 Bedok North Street 4 #01-91, Singapore 460089",
+        "lat": 1.3233722,
+        "lng": 103.9292475,
+        "place_id": "ChIJKXQEuS8j2jER9LBSqfsuVxc",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE JURONG EAST",
+        "formatted_address": "237 Jurong East Street 21, Block 237, Singapore 600237",
+        "lat": 1.340711,
+        "lng": 103.74118,
+        "place_id": "ChIJAVXFrxAQ2jERMPPOIgoi9lQ",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE TAMPINES",
+        "formatted_address": "929 Tampines Street 91, Singapore 520929",
+        "lat": 1.346349,
+        "lng": 103.939481,
+        "place_id": "ChIJGSnZEBU92jERG81iRf68UT4",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RENALTEAM DIALYSIS CENTRE WOODLANDS PEAK",
+        "formatted_address": "Blk 302A Woodlands St 31 #01-327 Woodlands Peak, Singapore 731302",
+        "lat": 1.4316259,
+        "lng": 103.7752213,
+        "place_id": "ChIJ1y85vacT2jERpgGuflFWMT0",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RESERVOIR ROAD CLINIC & SURGERY",
+        "formatted_address": "HDB Bedok #01-3622, 704 Bedok Reservoir Road (S)470704, Singapore",
+        "lat": 1.3363742,
+        "lng": 103.9202104,
+        "place_id": "ChIJT1emyOIX2jER_JFSqgA5A_E",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RESILIENZ CLINIC",
+        "formatted_address": "10 Sinaran Dr, #10-03, Singapore 307506",
+        "lat": 1.320409,
+        "lng": 103.844151,
+        "place_id": "ChIJv-s_XecZ2jERkiC_Bqeovms",
+        "rolled_in_clinics":false
+    },
+    {
+        "name": "RESPIRATORY & MEDICAL SPECIALISTS PTE LTD",
+        "formatted_address": "6 Napier Rd, Singapore 258499",
+        "lat": 1.3077263,
+        "lng": 103.8200865,
+        "place_id": "ChIJvY5xIiAa2jERphdn030ed48",
+        "rolled_in_clinics":false
+    }
+]
