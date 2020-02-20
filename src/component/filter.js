@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import CheckBox from './checkBox'
 import {connect} from 'react-redux'
-import categories from '../../data/cat.json'
+import categories from '../data/cat.json'
 import { setFilter } from '../actions/index'
 
 class filter extends Component{

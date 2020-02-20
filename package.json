@@ -5,10 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --open --mode development"
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d src/dist",
+    "publish-demo": "npm run build && npm run deploy"
   },
   "author": "Manish",
   "license": "ISC",
+  "homepage": "http://Manish166.github.io/clinicsMap",
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "@babel/polyfill": "^7.8.3",
@@ -16,7 +20,9 @@
     "@babel/preset-react": "^7.8.3",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.4.2",
+    "gh-pages": "^2.2.0",
     "react-leaflet": "^2.6.1",
+    "react-scripts": "^3.4.0",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6",
     "style-loader": "^1.1.3",

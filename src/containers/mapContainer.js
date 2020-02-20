@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import Map from '../component/map'
-import allClincsData from '../../data/allClinics'
-import dentalClinicsData from '../../data/dentalClinics'
-import medicalClinicsData from '../../data/medicalClinics'
+import allClincsData from '../data/allClinics.json'
+import dentalClinicsData from '../data/dentalClinics.json'
+import medicalClinicsData from '../data/medicalClinics.json'
 import {connect} from 'react-redux'
 
 class MapContainer extends Component {

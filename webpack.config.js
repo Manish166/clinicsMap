@@ -3,9 +3,19 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const path=require('path');
 module.exports={
     entry : [path.join(__dirname, './src/index.js')],
+    output: {
+        path: path.join(__dirname, "src/dist"),
+        filename: "bundle.js"
+    },
     plugins:[
-        new HtmlWebpackPlugin({template: './public/index.html'})
+        new HtmlWebpackPlugin({
+            template: path.join(__dirname, "/public/index.html"),
+            filename : './index.html'
+        })
     ],
+    resolve: {
+        extensions: [".js", ".jsx"]
+    },
     devtool : 'inline-source-map',
     module :{
         rules:[
@@ -21,8 +31,7 @@ module.exports={
             }
         ]
     },
-    output : {
-        path: __dirname+'/dist',
-        filename : './bundle.js'
+    devServer : {
+        port : 3007
     }
 }
