@@ -20,7 +20,7 @@ class MapContainer extends Component {
     }
     componentDidMount(){
         const script = document.createElement("script");
-        script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDjWSBZGEfMTI1zF13YlGytBSJ7HVxXuqI&libraries=places,visualization&callback=initMap";
+        script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAO6l-w00hJYsdJVstRd88sluQ2eDV6DjE&libraries=places,visualization&callback=initMap";
         script.async = true
         script.defer = true
         window.document.body.appendChild(script);
@@ -64,8 +64,6 @@ class MapContainer extends Component {
         this.setState({clinicsMarkers: allClincsMarkers})
         this.setState({medicalMarkers: medicalClinicsMarkers})
         this.setState({dentalMarkers : dentalClincsMarkers})
-         
-         
     }
 
     // markAllClinics(){

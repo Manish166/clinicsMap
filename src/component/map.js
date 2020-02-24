@@ -1,9 +1,10 @@
 import React from 'react'
+import './map.css'
 
 const Map = () => {
     return (
         <div id="map" 
-            style={{ width: '95%', height: '800px' }}>
+            style={{ "height": '88vh', "width" : '100%' }}>
             <p>map will go in this</p>
         </div>
     )

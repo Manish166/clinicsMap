@@ -24,7 +24,7 @@ class filter extends Component{
 
     render(){
         return (
-            <React.Fragment>
+            <div className="inline">
                 {categories.map(category => (
                     <CheckBox 
                         key={category.cat_id} 
@@ -34,7 +34,7 @@ class filter extends Component{
                         onChange={this.handleChange}
                     />
                 ))}
-            </React.Fragment>
+            </div>
         )
     }
 
