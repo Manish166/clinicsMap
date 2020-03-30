@@ -13,14 +13,11 @@ module.exports={
             filename : './index.html'
         })
     ],
-    resolve: {
-        extensions: [".js", ".jsx"]
-    },
     devtool : 'inline-source-map',
     module :{
         rules:[
             {
-                test:/\.(js|jsx)$/,
+                test:/\.(js)$/,
                 exclude:/node_modules/,
                 use:['babel-loader']
             },
@@ -28,7 +25,15 @@ module.exports={
                 test:/\.(css)$/,
                 exclude:/node_modules/,
                 use:['style-loader','css-loader']
-            }
+            },
+            {
+                test: /\.(png|jpe?g|gif)$/i,
+                use: [
+                  {
+                    loader: 'file-loader',
+                  },
+                ],
+              }
         ]
     },
     devServer : {

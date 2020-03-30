@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Map from '../component/map'
+import MarkerClusterer from '@google/markerclusterer'
 import allClincsData from '../data/allClinics.json'
 import dentalClinicsData from '../data/dentalClinics.json'
 import medicalClinicsData from '../data/medicalClinics.json'
@@ -14,16 +15,16 @@ class MapContainer extends Component {
         this.state = {
                 mapObj : '',
                 clinicsMarkers : [],
-                medicalMarkers :[],
+                medicalMarkers : [],
                 dentalMarkers : []
         }
     }
     componentDidMount(){
-        const script = document.createElement("script");
-        script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAO6l-w00hJYsdJVstRd88sluQ2eDV6DjE&libraries=places,visualization&callback=initMap";
-        script.async = true
-        script.defer = true
-        window.document.body.appendChild(script);
+        const mapScript = document.createElement("script");
+        mapScript.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAO6l-w00hJYsdJVstRd88sluQ2eDV6DjE&libraries=places,visualization&callback=initMap";
+        mapScript.async = true
+        mapScript.defer = true
+        document.body.appendChild(mapScript);
     }
 
     initMap(){
@@ -36,31 +37,31 @@ class MapContainer extends Component {
         this.createAllMarkers()
     }
 
-    createAllMarkers(){
+    async createAllMarkers(){
         var allClincsMarkers=[]
         var medicalClinicsMarkers = []
         var dentalClincsMarkers=[]
         
         for (var i=0; i<allClincsData.length; i++){  
-            var marker1 = new window.google.maps.Marker({
+            var marker1 = await new window.google.maps.Marker({
                 position:{lat : allClincsData[i].lat,lng: allClincsData[i].lng}
             })
             allClincsMarkers.push(marker1)
         }
         
         for (var j=0; j<medicalClinicsData.length; j++){  
-            var marker2 = new window.google.maps.Marker({
+            var marker2 = await new window.google.maps.Marker({
                 position:{lat : medicalClinicsData[j].lat,lng: medicalClinicsData[j].lng}
             })
             medicalClinicsMarkers.push(marker2)
         }
-
         for (var k=0; k<dentalClinicsData.length; k++){  
-            var marker3 = new window.google.maps.Marker({
+            var marker3 = await new window.google.maps.Marker({
                 position:{lat : dentalClinicsData[k].lat,lng: dentalClinicsData[k].lng}
             })
             dentalClincsMarkers.push(marker3)
         }
+        
         this.setState({clinicsMarkers: allClincsMarkers})
         this.setState({medicalMarkers: medicalClinicsMarkers})
         this.setState({dentalMarkers : dentalClincsMarkers})
@@ -88,15 +89,19 @@ class MapContainer extends Component {
     // }
 
     markAllClinics(instruction){
-        if (instruction){
-            this.state.clinicsMarkers.forEach(marker => {
-                marker.setMap(this.state.mapObj)
-            });
-        }else{
-            this.state.clinicsMarkers.forEach(marker => {
-                marker.setMap(null)
-            });
-        }
+        // if (instruction){
+        //     this.state.clinicsMarkers.forEach(marker => {
+        //         marker.setMap(this.state.mapObj)
+        //     });
+        // }else{
+        //     this.state.clinicsMarkers.forEach(marker => {
+        //         marker.setMap(null)
+        //     });
+        // }
+        var allClincsCluster = new MarkerClusterer(this.state.mapObj, this.state.allClincsMarkers)
+        var medicalClinicsCluster = new MarkerClusterer(this.state.mapObj, this.state.medicalClinicsMarkers)
+        var dentalClinicsCluster = new MarkerClusterer(this.state.mapObj, this.state.dentalClincsMarkers)
+
     }
 
     markMedicalClinics(instruction){

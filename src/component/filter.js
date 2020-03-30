@@ -18,13 +18,12 @@ class filter extends Component{
 
     async handleChange(e) {
         await this.setState({filter: {...this.state.filter, [e.target.id]:!this.state.filter[e.target.id]}})
-        console.log("in filter", this.state.filter)
         this.props.setFilter(this.state.filter) 
     }
 
     render(){
         return (
-            <div className="inline">
+            <div>
                 {categories.map(category => (
                     <CheckBox 
                         key={category.cat_id} 
@@ -37,7 +36,6 @@ class filter extends Component{
             </div>
         )
     }
-
 }
 
 const mapDispatchToProps = {

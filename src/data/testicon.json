@@ -1,0 +1,19 @@
+{"type": "FeatureCollection", 
+    "features": [
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [103.849097, 1.348388]
+            },
+             "properties": {
+                 "name": "DA CLINIC @ BISHAN", 
+                "formatted_address": "501 Bishan Street 11, #01-374, Singapore 570501", 
+                "lat": 1.348388, 
+                "icon" : "hospital",
+                "lng": 103.849097, 
+                "place_id": "ChIJpfXbtScX2jERw2Y4yudtEzY"
+            }
+        }
+    ]
+}
