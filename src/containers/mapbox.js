@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import UberMapGL, {Source, Layer} from 'react-map-gl';
 import Popup from './popup'
 import clinics from "../data/clinics.json"
-import Markers from '../containers/markers'
 import {clusterLayer, clusterCountLayer, unclusteredPointLayer} from './layers';
 const MAPBOX_TOKEN = 'pk.eyJ1IjoibWFuaXNoMTY2IiwiYSI6ImNrNzIyeTVlcTBieHIzZW81bG5xczZ3dXQifQ.MLN_1SvNh2Be3t45U0l1VQ';
 
@@ -42,19 +41,19 @@ export default class UberMapBox extends Component {
                 if (err) {
                   return;
                 }
-              this.onViewportChange({
+                this.onViewportChange({
                   ...this.state.viewport,
                   longitude: feature.geometry.coordinates[0],
                   latitude: feature.geometry.coordinates[1],
                   zoom,
                   transitionDuration: 500
-                });
+                })
             })
         }
         if (feature.layer.id =="unclustered-point"){
             const info ={
                 name : feature.properties.name,
-                address : feature.properties.address,
+                formatted_address : feature.properties.formatted_address,
                 poplng: feature.geometry.coordinates[0],
                 poplat : feature.geometry.coordinates[1],
             }
@@ -64,7 +63,7 @@ export default class UberMapBox extends Component {
 
     renderPopup(){
         if (this.state.popupState !== null){
-            const name=this.state.popupState.name + this.state.popupState.address
+            const name=this.state.popupState.name + this.state.popupState.formatted_address
             return(
                 <Popup 
                     longitude={this.state.popupState.poplng} 
@@ -77,7 +76,6 @@ export default class UberMapBox extends Component {
                 />
             )
         }
-            
     }
 
     render() {

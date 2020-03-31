@@ -3,8 +3,6 @@ import UberMapBox from "../containers/mapbox"
 import Filter from '../component/filter'
 import Navbar from "../component/navbar"
 import Footer from "../component/footer"
-import PureGl from '../containers/mapboxpure'
-
 
 const App = ()=>{
     return(
