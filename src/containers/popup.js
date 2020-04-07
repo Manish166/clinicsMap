@@ -12,7 +12,6 @@ const PopupComp=(props)=>{
         </Popup>
     )
 }
-
 export default PopupComp
 
 

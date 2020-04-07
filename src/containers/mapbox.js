@@ -1,11 +1,14 @@
 import React, { Component } from 'react'
 import UberMapGL, {Source, Layer} from 'react-map-gl';
-import Popup from './popup'
-import clinics from "../data/clinics.json"
-import {clusterLayer, clusterCountLayer, unclusteredPointLayer} from './layers';
+import {connect} from 'react-redux'
+import Popup from './Popup'
+import clinics from "../data/clinics2.json"
+import medical from '../data/mclinics.json'
+import dental from "../data/dclinics.json"
+import {clusterLayer, clusterCountLayer, unclusteredPointLayer} from './Layers';
 const MAPBOX_TOKEN = 'pk.eyJ1IjoibWFuaXNoMTY2IiwiYSI6ImNrNzIyeTVlcTBieHIzZW81bG5xczZ3dXQifQ.MLN_1SvNh2Be3t45U0l1VQ';
 
-export default class UberMapBox extends Component {
+class UberMapBox extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -23,6 +26,7 @@ export default class UberMapBox extends Component {
         this.onViewportChange = this.onViewportChange.bind(this)
         this.onPopChange = this.onPopChange.bind(this)
         this.renderPopup = this.renderPopup.bind(this)
+        this.renderSource = this.renderSource.bind(this)
     }
 
     onViewportChange(viewport){ 
@@ -77,6 +81,33 @@ export default class UberMapBox extends Component {
             )
         }
     }
+    renderSource(){
+        const choice = this.props.choice
+        let mapping=null
+        if (choice==="allClinics"){
+            mapping=clinics
+        }
+        if (choice==="generalMedical"){
+            mapping=medical
+        }
+        if (choice==="generalDental"){
+            mapping=dental
+        }
+        return(
+            <Source 
+                type="geojson" 
+                data={mapping}
+                    cluster={true}
+                    clusterMaxZoom={14}
+                    clusterRadius={50}
+                    ref={this.sourceRef}>
+                        <Layer {...clusterLayer}/>
+                        <Layer {...clusterCountLayer} />
+                        <Layer {...unclusteredPointLayer} />
+                </Source>
+            
+        )
+    }
 
     render() {
         return (
@@ -90,20 +121,17 @@ export default class UberMapBox extends Component {
                 interactiveLayerIds={[clusterLayer.id, unclusteredPointLayer.id]}
                 onClick={this.onClick}
             >
-                {/* <Markers clinics={clinics}/> */}
-                <Source 
-                    type="geojson"
-                    data={clinics}
-                    cluster={true}
-                    clusterMaxZoom={14}
-                    clusterRadius={50}
-                    ref={this.sourceRef}>
-                        <Layer {...clusterLayer}/>
-                        <Layer {...clusterCountLayer} />
-                        <Layer {...unclusteredPointLayer} />
-                </Source>
+                {this.renderSource()}
                 {this.renderPopup()}
             </UberMapGL>
         )
     }
 }
+
+const mapStateToProps=(state)=>{
+    return {
+        choice : state.choice
+    }
+}
+
+export default connect(mapStateToProps, null)(UberMapBox)

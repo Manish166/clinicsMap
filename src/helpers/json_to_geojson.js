@@ -1,11 +1,12 @@
-import fs from "fs"
-import clinics from "../data/allClinics.json"
+var fs = require("fs")
+var clinics = require ("../data/medicalClinics.json")
 
 var geojson = {
     type: "FeatureCollection",
     features: [],
   };
-export const conversion = () =>{
+function conversion() {
+    console.log(clinics.length)
     for (i = 0; i < clinics.length; i++) {
         geojson.features.push({
           "type": "Feature",
@@ -16,18 +17,25 @@ export const conversion = () =>{
           "properties": {
             "name": clinics[i].name,
             "formatted_address": clinics[i].formatted_address,
+            "lat" : clinics[i].lat,
+            "lng" : clinics[i].lng,
             "place_id": clinics[i].place_id,
-            "key_id" : i
+            "key_id" : i,
+            "icon" : "hospital"
           }
         });
+        
     }
     toFile()
+    
 } 
 
-const toFile = () =>{
-    fs.appendFile("clinics.geojson", geojson,(err)=>{
+function toFile() {
+    var data=JSON.stringify(geojson)
+    fs.appendFile("mclinics.geojson", data,(err)=>{
         if (err) throw err;
     })
 }
+conversion()
 
-
+ 
