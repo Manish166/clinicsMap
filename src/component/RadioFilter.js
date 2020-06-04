@@ -20,7 +20,7 @@ class RadioFilter extends Component{
 
     render(){
         return (
-            <React.Fragment>
+            <div>
                 {categories.map(category => (
                     <RadioButton 
                         key={category.cat_id} 
@@ -31,7 +31,7 @@ class RadioFilter extends Component{
                         onChange={this.handleChange}
                     />
                 ))}
-            </React.Fragment >
+            </div>
         )
     }
 }

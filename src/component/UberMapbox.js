@@ -113,8 +113,8 @@ class UberMapBox extends Component {
         return (
             <UberMapGL
                 {...this.state.viewport}
-                width="100vw"
-                height="100vh"
+                width="100%"
+                height="90vh"
                 mapStyle="mapbox://styles/mapbox/streets-v11"
                 onViewportChange={viewport => this.setState({viewport})}
                 mapboxApiAccessToken={MAPBOX_TOKEN}

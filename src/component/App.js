@@ -1,34 +1,27 @@
 import React from 'react'
-import UberMapBox from "../containers/Mapbox"
-// import CheckBoxFilter from '../component/CheckBoxFilter'
-import RadioFilter from '../component/RadioFilter'
-import Navbar from "./Navbar"
-import Footer from "./Footer"
-import {connect} from 'react-redux'
+import { Provider } from "react-redux";
+import { Route, BrowserRouter as Router, Switch  } from 'react-router-dom'
+import store from '../store'
+import Navigation from './Navigation'
+import Home from '../pages/HomePage'
+import AddClinicToPanel from '../pages/AddClinicToPanel'
 
-class App extends React.Component{
+class App extends React.Component{       
     render(){
         return(
-            <React.Fragment>
-                <Navbar/>
-                <div className='row'>
-                    <div className="col-sm-2" style={{"height" : "88vh"}}>
-                        <RadioFilter/>
-                    </div>
-                    <div className="col-sm-10">
-                        <UberMapBox/>
-                    </div>
-                </div>
-                <Footer/>
-            </React.Fragment>
+            <Provider store={store}>
+                <Router>
+                    <div>
+                        <Navigation/>
+                        <Switch>
+                            <Route path='/' exact component={Home}/>
+                            <Route path='/updateClinic' component={AddClinicToPanel}/>
+                        </Switch>
+                        </div>
+                </Router>
+            </Provider>
         )
     }   
 }
 
-const mapStateToProps=(state)=>{
-    return {
-        filter : state.filter
-    }
-}
-
-export default connect(mapStateToProps, null)(App)
+export default App

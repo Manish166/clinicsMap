@@ -1,9 +1,8 @@
 import React from 'react';
 
 const RadioButton = (props)=>{
-    console.log(props)
     return(
-        <React.Fragment>
+        <div>
             <label style={{"color": "white", "marginLeft": '1.5rem'}}>
                 <input style={{"margin" : ".5rem"}}
                     type="radio"
@@ -15,7 +14,7 @@ const RadioButton = (props)=>{
                 ></input>
                 {props.name}
             </label> 
-        </React.Fragment> 
+        </div> 
     )
 }
 
